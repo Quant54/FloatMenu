@@ -1,0 +1,41 @@
+.afm-wrap
+{
+
+	border:1px solid #ccc;
+	border-left:none;
+	border-right:none;
+}
+.afm-wrap p {
+	display: inline-block;
+}
+#af {
+	font-size:2rem;
+	border: 1px solid gray;
+padding: 4px;
+background-color: white;
+}
+#af3 {
+	font-size:1.4rem;
+	border: 1px solid gray;
+padding: 4px;
+background-color: white;
+}
+#menuitems-table th 
+{
+	padding-top: 4px;
+	padding-bottom: 4px;
+	width:20px;
+
+	text-align: center;
+}
+#menuitems-table th#cb
+{
+	padding:0;
+}
+#menuitems-table {
+	text-align: center;
+}
+.alternate td span{
+
+	font-size: 1.3rem;
+}
